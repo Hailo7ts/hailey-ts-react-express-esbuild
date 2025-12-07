@@ -28,11 +28,11 @@
 	"author": "Covalence",
 	"license": "MIT",
 	"dependencies": {
-		"bootstrap": "^5.3.5",
+		"bootstrap": "^5.3.8",
 		"cors": "^2.8.5",
 		"express": "^5.1.0",
-		"react": "^19.1.0",
-		"react-dom": "^19.1.0"
+		"react": "^19.2.0",
+		"react-dom": "^19.2.0"
 	},
 	"devDependencies": {
 		"@types/cors": "^2.8.17",
